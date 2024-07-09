@@ -54,6 +54,7 @@ nav a:hover {
 #header-background {
     background-color: #3C6E71;
     text-align: center;
+    color: white;
 }
 #header-background h1 {
     padding-top: 1em;
