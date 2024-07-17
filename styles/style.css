@@ -187,10 +187,20 @@ nav a:hover {
     background-color: #005791;
     margin: 5px 50px;
     transition: transform 0.2s;
+    border-radius: 30px;
 }
 .salesforce-link:hover {
     transform: scale(1.06);
 }
+
+/* Subpage - Portfolio */
+#teton-img, #mesa-falls-img {
+max-width: 1600px;
+}
+#teton-img {
+    width: 100%;
+}
+
 footer {
     display: flex;
     justify-content: left;
